@@ -1,1 +1,0 @@
-# git-pre-study-course
